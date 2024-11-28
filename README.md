@@ -1,0 +1,1 @@
+The Titanic Classification project predicts passenger survival using machine learning, leveraging demographic, ticket, and onboard data. It demonstrates data preprocessing, feature engineering, and classification techniques for impactful insights.
